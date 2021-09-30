@@ -146,7 +146,7 @@
       "sources": [
         {
           "url": "https://github.com/Open-Transactions/opentxs",
-          "commit": "0ece59f6ec30b2095b0fe97ab7cf5f34a6c28fc1",
+          "commit": "904308f115f5a65bb787524d5511d7c7e328ece9",
           "type": "git",
           "disable-shallow-clone": true
         }
@@ -168,8 +168,8 @@
       "sources": [
         {
           "url": "https://github.com/Open-Transactions/metier",
-          "tag": "21.3",
-          "commit": "bd5b28cb5235d8de5fb7d7b8c7e883f8ad99ea93",
+          "tag": "21.4",
+          "commit": "a0598d0d864548f37649ee1e06445aa346f217ed",
           "type": "git",
           "disable-shallow-clone": true
         }
