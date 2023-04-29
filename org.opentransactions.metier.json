@@ -163,8 +163,8 @@
       "sources": [
         {
           "url": "https://github.com/Open-Transactions/metier",
-          "tag": "23.1.0",
-          "commit": "e4fffe77940f0bc5f9d833adbbebc976c2abc9d4",
+          "tag": "23.2.1",
+          "commit": "806aa48690c0d7ea56bf89dd39d50ca6063ac3d3",
           "type": "git",
           "disable-shallow-clone": true
         }
