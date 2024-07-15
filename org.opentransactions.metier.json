@@ -140,7 +140,7 @@
       "sources": [
         {
           "url": "https://github.com/oneapi-src/oneTBB/archive/refs/tags/v2021.13.0.tar.gz",
-          "sha256": "2cae2a80cda7d45dc7c072e4295c675fff5ad8316691f26f40539f7e7e54c0cc",
+          "sha256": "3ad5dd08954b39d113dc5b3f8a8dc6dc1fd5250032b7c491eb07aed5c94133e1",
           "type": "archive"
         }
       ],
