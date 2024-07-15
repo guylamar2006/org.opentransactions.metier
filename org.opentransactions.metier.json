@@ -82,7 +82,6 @@
       "name": "protobuf",
       "buildsystem": "cmake-ninja",
       "builddir": true,
-      "subdir": "cmake",
       "config-opts": [
         "-Dprotobuf_BUILD_TESTS=OFF",
         "-Dprotobuf_BUILD_SHARED_LIBS=ON",
