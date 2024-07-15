@@ -1,7 +1,7 @@
 {
   "id": "org.opentransactions.metier",
   "runtime": "org.kde.Platform",
-  "runtime-version": "6.4",
+  "runtime-version": "6.7",
   "sdk": "org.kde.Sdk",
   "command": "metier",
   "modules": [
@@ -10,7 +10,7 @@
       "buildsystem": "simple",
       "sources": [
         {
-          "url": "https://boostorg.jfrog.io/artifactory/main/release/1.81.0/source/boost_1_81_0.tar.bz2",
+          "url": "https://boostorg.jfrog.io/artifactory/main/release/1.85.0/source/boost_1_85_0.tar.bz2",
           "sha256": "71feeed900fbccca04a3b4f2f84a7c217186f28a940ed8b7ed4725986baf99fa",
           "type": "archive"
         }
@@ -36,7 +36,7 @@
       ],
       "sources": [
         {
-          "url": "https://download.libsodium.org/libsodium/releases/libsodium-1.0.18.tar.gz",
+          "url": "https://download.libsodium.org/libsodium/releases/libsodium-1.0.20.tar.gz",
           "sha256": "6f504490b342a4f8a4c4a02fc9b866cbef8622d5df4e5452b46be121e46636c1",
           "type": "archive"
         }
@@ -64,7 +64,7 @@
       ],
       "sources": [
         {
-          "url": "https://github.com/zeromq/libzmq/releases/download/v4.3.4/zeromq-4.3.4.tar.gz",
+          "url": "https://github.com/zeromq/libzmq/releases/download/v4.3.5/zeromq-4.3.5.tar.gz",
           "sha1": "47277a64749049123d1401600e8cfbab10a3ae28",
           "type": "archive"
         }
@@ -90,7 +90,7 @@
       ],
       "sources": [
         {
-          "url": "https://github.com/protocolbuffers/protobuf/archive/refs/tags/v3.19.1.tar.gz",
+          "url": "https://github.com/protocolbuffers/protobuf/archive/refs/tags/v5.27.2.tar.gz",
           "sha256": "87407cd28e7a9c95d9f61a098a53cf031109d451a7763e7dd1253abf8b4df422",
           "type": "archive"
         }
@@ -117,8 +117,8 @@
       "sources": [
         {
           "url": "https://github.com/LMDB/lmdb",
-          "tag": "LMDB_0.9.29",
-          "commit": "8ad7be2510414b9506ec9f9e24f24d04d9b04a1a",
+          "tag": "LMDB_0.9.31",
+          "commit": "ce201088de95d26fc0da36ba805bf2ddc2ba74ff",
           "type": "git"
         }
       ],
@@ -139,7 +139,7 @@
       ],
       "sources": [
         {
-          "url": "https://github.com/oneapi-src/oneTBB/archive/refs/tags/v2021.7.0.tar.gz",
+          "url": "https://github.com/oneapi-src/oneTBB/archive/refs/tags/v2021.13.0.tar.gz",
           "sha256": "2cae2a80cda7d45dc7c072e4295c675fff5ad8316691f26f40539f7e7e54c0cc",
           "type": "archive"
         }
@@ -163,8 +163,8 @@
       "sources": [
         {
           "url": "https://github.com/Open-Transactions/metier",
-          "tag": "23.2.1",
-          "commit": "806aa48690c0d7ea56bf89dd39d50ca6063ac3d3",
+          "tag": "23.2.4",
+          "commit": "ab88480fb71b957333a9724ec8a9d6ecc4dd2dd8",
           "type": "git",
           "disable-shallow-clone": true
         }
