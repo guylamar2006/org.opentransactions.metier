@@ -91,7 +91,7 @@
       "sources": [
         {
           "url": "https://github.com/protocolbuffers/protobuf/archive/refs/tags/v5.27.2.tar.gz",
-          "sha256": "87407cd28e7a9c95d9f61a098a53cf031109d451a7763e7dd1253abf8b4df422",
+          "sha256": "be42c6d2be30e0951797f2a94d73ba23806d8d177a82d32a26f7df38cc54cb14",
           "type": "archive"
         }
       ],
